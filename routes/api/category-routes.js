@@ -74,6 +74,7 @@ router.delete('/:id', async (req, res) => {
         id: req.params.id
       }
     });
+    //if user enters category id that doesn't exist
     if (!categoryData) {
       res.status(400).json({ message: 'No category with that ID' });
       return;
