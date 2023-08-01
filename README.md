@@ -47,12 +47,12 @@ To use this app, please follow the instructions below:
 - Next, in your CLI, run `npm start` to start your server.  
 - The backend is set up! You can test the routes in `Insomnia`. See walk-through demonstration of the routes in action below.  
 
-**TUTORIAL VIDEO**
+**TUTORIAL VIDEO**  
 Walk-through video on Google Drive: https://drive.google.com/file/d/19VKW08EhyhU4nkvucU0rjcJJZn-k5F9F/view  
 
 https://github.com/randirose/e-commerce-backend-orm-randi/assets/128757891/e1af00a4-42eb-4bcf-b7e7-3a50413d0c85  
 
-**SCREENSHOTS**
+**SCREENSHOTS**  
 ![MySQL/CLI commands - 1](assets/screenshot-CLI1.png)  
 ![CLI commands - 2](assets/screenshot-CLI2.png)  
 ![Insomnia - GET categories](assets/screenshot-GETcategories.png)  
