@@ -47,12 +47,17 @@ To use this app, please follow the instructions below:
 - Next, in your CLI, run `npm start` to start your server.  
 - The backend is set up! You can test the routes in `Insomnia`. See walk-through demonstration of the routes in action below.  
 
-****walk thru video G drive link
+Walk-through video on Google Drive: https://drive.google.com/file/d/19VKW08EhyhU4nkvucU0rjcJJZn-k5F9F/view  
 
 ****walk thru video embed link
 
-****screenshots below
-![alt text](assets/images/screenshot.png)
+![MySQL/CLI commands - 1](assets/screenshot-CLI1.png)  
+![CLI commands - 2](assets/screenshot-CLI2.png)  
+![Insomnia - GET categories](assets/screenshot-GETcategories.png)  
+![Insomnia - GET products](assets/screenshot-GETproducts.png)  
+![Insomnia - GET tags](assets/screenshot-GETtags.png)  
+![Insomnia - POST category](assets/screenshot-POSTcategory.png)  
+![Insomnia - POST tag](assets/screenshot-POSTtag.png)  
 
 
 ## Features
