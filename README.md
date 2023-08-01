@@ -49,6 +49,10 @@ To use this app, please follow the instructions below:
 
 Walk-through video on Google Drive: https://drive.google.com/file/d/19VKW08EhyhU4nkvucU0rjcJJZn-k5F9F/view  
 
+
+https://github.com/randirose/e-commerce-backend-orm-randi/assets/128757891/e1af00a4-42eb-4bcf-b7e7-3a50413d0c85
+
+
 ****walk thru video embed link
 
 ![MySQL/CLI commands - 1](assets/screenshot-CLI1.png)  
